@@ -1,6 +1,6 @@
 issuer: https://accounts.google.com
 # ghreconciler@mattmoor-chainguard.iam.gserviceaccount.com
-subject: "117292703478108941530"
+subject: "DISABLED" # "117292703478108941530"
 
 permissions:
   checks: read
